@@ -11,6 +11,7 @@ public class Ejercicio5 {
 
         if(arrayString.length<=10){
             unirYConvertir(arrayString);
+
         }else{
             System.out.println("La matriz es demasiado grande");
         }
